@@ -25,5 +25,4 @@ A scalable and fault-tolerant distributed search engine built using **Python**, 
 - Information Retrieval: TF-IDF, BM25
 - TCP/IP Networking
 
-## 📁 Project Structure
 
